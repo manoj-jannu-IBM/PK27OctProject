@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">abhk</value>
-    <value name="createdDate">2026-10-27T08:51:59.152447783Z</value>
-    <value name="lastModifiedDate">2026-10-27T08:51:59.152447783Z</value>
+    <value name="lastModifiedBy">abhk</value>
+    <value name="lastModifiedDate">2026-10-27T08:52:35.674399194Z</value>
     <value name="displayName">refTest</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -62,10 +61,7 @@
         <record name="serviceName" javaclass="com.wm.util.Values">
           <value name="displayName">ref1</value>
           <value name="serviceName">project.pk27oct.referencedata:ref1</value>
-          <double name="rank" type="Double">0.4</double>
         </record>
-        <null name="outputMapSet"/>
-        <null name="mapSet"/>
         <number name="ui_step_index" type="Long">1</number>
         <value name="nodePathNew">0</value>
         <number name="nodeIndex" type="Long">0</number>
