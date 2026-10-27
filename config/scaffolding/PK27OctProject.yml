@@ -17,6 +17,11 @@ packages:
   version: 10.3.0.0.34
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
+- name: JDBC_without_required_jar
+  gitServerName: SIQAGitHubShared
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: manoj-jannu-IBM
+  gitBranch: main
 services:
 - serviceName: project.pk27oct.integrations:alerts
   packages:
