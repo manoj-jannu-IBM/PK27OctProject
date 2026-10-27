@@ -1,22 +1,22 @@
-version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: PK27OctProject
+- gitBranch: main
   gitServerName: SIQAGitHubShared
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: manoj-jannu-IBM
-  gitBranch: main
+  name: PK27OctProject
 services:
-- serviceName: project.pk27oct.integrations:debugLog
-  packages:
+- packages:
   - name: PK27OctProject
-    version: "1.0"
-- serviceName: pub.flow:debugLog
-  packages:
+    version: 2.0.0
+  serviceName: project.pk27oct.integrations:debugLog
+- packages:
   - name: WmPublic
     version: 12.1.0.0.1315
-- serviceName: project.pk27oct.streaming.connections:EmbeddedMessaging
-  packages:
+  serviceName: pub.flow:debugLog
+- packages:
   - name: PK27OctProject
-    version: "1.0"
+    version: 2.0.0
+  serviceName: project.pk27oct.streaming.connections:EmbeddedMessaging
+version: '1.0'
