@@ -15,6 +15,12 @@
         <value name="isSecure">false</value>
         <value name="isLinkedToVault">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">pwdvar</value>
+        <value name="value">gvhandle.pwdvar</value>
+        <value name="isSecure">true</value>
+        <value name="isLinkedToVault">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
