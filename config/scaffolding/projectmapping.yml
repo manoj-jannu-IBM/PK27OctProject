@@ -5,7 +5,5 @@ runtimes:
   assets:
   - name: JDBC_without_required_jar.JDBC_without_required_jar.connections.jdbcconn
     type: connection
-- runtimeAlias: fr04l
-  assets:
   - name: prabhakar_ingress
     type: clientapplication
