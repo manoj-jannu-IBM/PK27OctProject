@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">restResource</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.pk27oct.rad.ingressREST_.resources:ingressREST_resource</value>
+  <value name="node_pkg">PK27OctProject</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">abhk</value>
+    <value name="modifiedBy">abhk</value>
+    <value name="createdDate">2026-10-27T07:11:52.491387016Z</value>
+    <value name="lastModifiedDate">2026-10-27T07:11:52.491387016Z</value>
+  </record>
+  <value name="is_public">false</value>
+  <record name="restResource" javaclass="com.wm.util.Values">
+    <value name="resourceName">ingressREST_resource</value>
+    <value name="nsName">project.pk27oct.rad.ingressREST_.resources:ingressREST_resource</value>
+    <array name="operations" type="record" depth="1">
+    </array>
+  </record>
+  <null name="originUri"/>
+  <value name="resourceName">ingressREST_resource</value>
+  <Boolean name="modifiable">true</Boolean>
+  <null name="srcdoctypename"/>
+  <value name="assocdoctypename">project.pk27oct.rad.ingressREST_.resources.ingressREST_resource_.docTypes:ingressREST_resource</value>
+  <Boolean name="isjsonapi">false</Boolean>
+  <array name="attributes" type="record" depth="1">
+  </array>
+</Values>
