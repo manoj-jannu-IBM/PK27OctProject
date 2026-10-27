@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.pk27oct.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">PK27OctProject</value>
+  <value name="is_public">false</value>
+  <value name="assetId">PK27OctProject.project.pk27oct.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhps://f03-l-stage00-um-svc-http.test-l.svc.cluster.local:443/</value>
+  <value name="clientId">EMc002da072f4c4181a884fe47c169b597</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">abhk</value>
+    <value name="modifiedBy">abhk</value>
+    <value name="createdDate">2026-10-27T04:59:41.786458739Z</value>
+    <value name="lastModifiedDate">2026-10-27T04:59:41.786458739Z</value>
+  </record>
+</Values>
