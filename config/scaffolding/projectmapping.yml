@@ -1,6 +1,10 @@
 version: "1.0"
 projectName: PK27OctProject
 runtimes:
+- runtimeAlias: MJAN24OCT
+  assets:
+  - name: JDBC_without_required_jar.JDBC_without_required_jar.connections.jdbcconn
+    type: connection
 - runtimeAlias: fr04l
   assets:
   - name: prabhakar_ingress
