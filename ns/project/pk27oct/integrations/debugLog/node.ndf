@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">abhk</value>
-    <value name="lastModifiedDate">2026-10-27T05:38:34.569122716Z</value>
+    <value name="lastModifiedDate">2026-10-27T06:48:10.926899969Z</value>
     <value name="displayName">debugLog</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -74,6 +74,13 @@
       </record>
     </record>
     <value name="modifiedBy">abhk</value>
+    <value name="createdBy">abhk</value>
+    <value name="createdDate">1793083690926</value>
+    <record name="edgeServer" javaclass="com.wm.util.Values">
+      <value name="group">Default</value>
+      <value name="id">default</value>
+      <value name="name">Cloud Execution</value>
+    </record>
   </record>
   <value name="svc_in_validator_options">none</value>
   <value name="svc_out_validator_options">none</value>
