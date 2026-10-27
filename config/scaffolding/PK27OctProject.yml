@@ -7,3 +7,16 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: manoj-jannu-IBM
   gitBranch: main
+services:
+- serviceName: project.pk27oct.integrations:debugLog
+  packages:
+  - name: PK27OctProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1315
+- serviceName: project.pk27oct.streaming.connections:EmbeddedMessaging
+  packages:
+  - name: PK27OctProject
+    version: "1.0"
