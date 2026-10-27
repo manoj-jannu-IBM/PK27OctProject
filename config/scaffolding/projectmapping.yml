@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: PK27OctProject
+runtimes:
+- runtimeAlias: MJAN24OCT
+  assets:
+  - name: prabhakar_ingress
+    type: clientapplication
